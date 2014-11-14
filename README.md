@@ -3,5 +3,6 @@ Siteocity Customizations
 
 To install these customizations, do the following:
 
-mkdir -p /var/cpanel/customizations
-git clone [this repository] .
+1. ``mkdir -p /var/cpanel/customizations``
+2. ``cd /var/cpanel/customizations``
+3. ``git clone [this repository] .``

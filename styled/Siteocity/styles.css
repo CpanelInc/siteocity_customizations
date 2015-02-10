@@ -100,3 +100,9 @@ button, .btn {
 footer {
     background:none;
 }
+
+/* fixing footer hover styles */
+.nav>li>a:hover, .nav>li>a:focus {background-color:inherit;}
+
+/* uncomment this when the support feature bug is resolved */
+#lnkFooterContact {display:none;}

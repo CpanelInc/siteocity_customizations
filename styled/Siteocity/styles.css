@@ -43,6 +43,10 @@ body {
     color:#ffffcc;
 }
 
+#imgLogo { 
+    max-height:inherit;
+    margin-left:-15px;
+}
 #logo-butt {
     margin-top:-1px;
 }

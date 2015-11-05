@@ -174,3 +174,15 @@ tr {
     background:#FFFFFF;
 }
 
+/* We now call the UI Group Headers and the dashboard widget headers the same. This style addresses both. */
+.widget-header {
+    /*background: rgb(235, 234, 224);*/
+    border: 0;
+
+    background-image: -o-linear-gradient(top, #2C5B8E 0%, #6593BC 73%);
+    background-image: -moz-linear-gradient(top, #2C5B8E 0%, #6593BC 73%);
+    background-image: -webkit-linear-gradient(top, #2C5B8E 0%, #6593BC 73%);
+    background-image: -ms-linear-gradient(top, #2C5B8E 0%, #6593BC 73%);
+    background-image: linear-gradient(to top, #2C5B8E 0%, #6593BC 73%);
+}
+
